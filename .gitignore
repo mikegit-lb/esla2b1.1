@@ -1,0 +1,12 @@
+# Local scratch and logs
+tmp_*
+*.log
+serve.log
+screenshot_freebuff_live.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
